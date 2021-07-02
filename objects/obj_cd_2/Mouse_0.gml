@@ -1,0 +1,2 @@
+global.cuadradito = 0
+

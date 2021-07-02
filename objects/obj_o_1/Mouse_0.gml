@@ -1,0 +1,2 @@
+global.oficial = 1
+

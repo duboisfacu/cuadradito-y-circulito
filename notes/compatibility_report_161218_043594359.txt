@@ -1,0 +1,295 @@
+Convirtiendo script GML: ${project_dir}\objects\obj_en_2\Create_0.gml
+Descripción convertida /// @description Initialize Variables
+
+Convirtiendo script GML: ${project_dir}\objects\obj_en_1\Create_0.gml
+Descripción convertida /// @description Initialize Variables
+
+Convirtiendo script GML: ${project_dir}\objects\obj_player\Step_0.gml
+Descripción convertida /// @description  Movimientos
+
+Convirtiendo script GML: ${project_dir}\objects\obj_player_vertical\Step_0.gml
+Descripción convertida /// @description  Movimientos
+
+Convirtiendo script GML: ${project_dir}\objects\obj_playerup\Create_0.gml
+Descripción convertida /// @description Initialize Variables
+
+Convirtiendo script GML: ${project_dir}\objects\obj_ccontrol\Step_0.gml
+Cadena convertida - línea 8: 'A' -> "A"
+Cadena convertida - línea 9: 'D' -> "D"
+Cadena convertida - línea 10: 'W' -> "W"
+Cadena convertida - línea 11: 'A' -> "A"
+Cadena convertida - línea 11: 'D' -> "D"
+Cadena convertida - línea 12: 'W' -> "W"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'A' -> "A"
+Cadena convertida - línea 14: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_c1\Step_0.gml
+Descripción convertida /// @description movimientos
+
+Convirtiendo script GML: ${project_dir}\objects\obj_cc1\Step_0.gml
+Descripción convertida /// @description movimientos
+
+Convirtiendo script GML: ${project_dir}\objects\obj_o1\Step_0.gml
+Descripción convertida /// @description movimientos
+
+Convirtiendo script GML: ${project_dir}\objects\obj_c2\Step_0.gml
+Descripción convertida /// @description movimientos
+Cadena convertida - línea 9: 'A' -> "A"
+Cadena convertida - línea 10: 'D' -> "D"
+Cadena convertida - línea 11: 'W' -> "W"
+Cadena convertida - línea 12: 'A' -> "A"
+Cadena convertida - línea 12: 'D' -> "D"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'W' -> "W"
+Cadena convertida - línea 15: 'A' -> "A"
+Cadena convertida - línea 15: 'D' -> "D"
+Cadena convertida - línea 27: 'A' -> "A"
+Cadena convertida - línea 28: 'D' -> "D"
+Cadena convertida - línea 29: 'W' -> "W"
+Cadena convertida - línea 30: 'A' -> "A"
+Cadena convertida - línea 30: 'D' -> "D"
+Cadena convertida - línea 31: 'W' -> "W"
+Cadena convertida - línea 32: 'W' -> "W"
+Cadena convertida - línea 33: 'A' -> "A"
+Cadena convertida - línea 33: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_cc2\Step_0.gml
+Descripción convertida /// @description movimientos
+Cadena convertida - línea 9: 'A' -> "A"
+Cadena convertida - línea 10: 'D' -> "D"
+Cadena convertida - línea 11: 'W' -> "W"
+Cadena convertida - línea 12: 'A' -> "A"
+Cadena convertida - línea 12: 'D' -> "D"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'W' -> "W"
+Cadena convertida - línea 15: 'A' -> "A"
+Cadena convertida - línea 15: 'D' -> "D"
+Cadena convertida - línea 27: 'A' -> "A"
+Cadena convertida - línea 28: 'D' -> "D"
+Cadena convertida - línea 29: 'W' -> "W"
+Cadena convertida - línea 30: 'A' -> "A"
+Cadena convertida - línea 30: 'D' -> "D"
+Cadena convertida - línea 31: 'W' -> "W"
+Cadena convertida - línea 32: 'W' -> "W"
+Cadena convertida - línea 33: 'A' -> "A"
+Cadena convertida - línea 33: 'D' -> "D"
+Cadena convertida - línea 43: 'A' -> "A"
+Cadena convertida - línea 44: 'D' -> "D"
+Cadena convertida - línea 45: 'W' -> "W"
+Cadena convertida - línea 46: 'A' -> "A"
+Cadena convertida - línea 46: 'D' -> "D"
+Cadena convertida - línea 47: 'W' -> "W"
+Cadena convertida - línea 48: 'W' -> "W"
+Cadena convertida - línea 49: 'A' -> "A"
+Cadena convertida - línea 49: 'D' -> "D"
+Cadena convertida - línea 59: 'A' -> "A"
+Cadena convertida - línea 60: 'D' -> "D"
+Cadena convertida - línea 61: 'W' -> "W"
+Cadena convertida - línea 62: 'A' -> "A"
+Cadena convertida - línea 62: 'D' -> "D"
+Cadena convertida - línea 63: 'W' -> "W"
+Cadena convertida - línea 64: 'W' -> "W"
+Cadena convertida - línea 65: 'A' -> "A"
+Cadena convertida - línea 65: 'D' -> "D"
+Cadena convertida - línea 76: 'A' -> "A"
+Cadena convertida - línea 77: 'D' -> "D"
+Cadena convertida - línea 78: 'W' -> "W"
+Cadena convertida - línea 79: 'A' -> "A"
+Cadena convertida - línea 79: 'D' -> "D"
+Cadena convertida - línea 80: 'W' -> "W"
+Cadena convertida - línea 81: 'W' -> "W"
+Cadena convertida - línea 82: 'A' -> "A"
+Cadena convertida - línea 82: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_d2\Step_0.gml
+Cadena convertida - línea 8: 'A' -> "A"
+Cadena convertida - línea 9: 'D' -> "D"
+Cadena convertida - línea 10: 'W' -> "W"
+Cadena convertida - línea 11: 'A' -> "A"
+Cadena convertida - línea 11: 'D' -> "D"
+Cadena convertida - línea 12: 'W' -> "W"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'A' -> "A"
+Cadena convertida - línea 14: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_o2\Step_0.gml
+Descripción convertida /// @description movimientos
+Cadena convertida - línea 9: 'A' -> "A"
+Cadena convertida - línea 10: 'D' -> "D"
+Cadena convertida - línea 11: 'W' -> "W"
+Cadena convertida - línea 12: 'A' -> "A"
+Cadena convertida - línea 12: 'D' -> "D"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'W' -> "W"
+Cadena convertida - línea 15: 'A' -> "A"
+Cadena convertida - línea 15: 'D' -> "D"
+Cadena convertida - línea 27: 'A' -> "A"
+Cadena convertida - línea 28: 'D' -> "D"
+Cadena convertida - línea 29: 'W' -> "W"
+Cadena convertida - línea 30: 'A' -> "A"
+Cadena convertida - línea 30: 'D' -> "D"
+Cadena convertida - línea 31: 'W' -> "W"
+Cadena convertida - línea 32: 'W' -> "W"
+Cadena convertida - línea 33: 'A' -> "A"
+Cadena convertida - línea 33: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_g2\Step_0.gml
+Cadena convertida - línea 8: 'A' -> "A"
+Cadena convertida - línea 9: 'D' -> "D"
+Cadena convertida - línea 10: 'W' -> "W"
+Cadena convertida - línea 11: 'A' -> "A"
+Cadena convertida - línea 11: 'D' -> "D"
+Cadena convertida - línea 12: 'W' -> "W"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'A' -> "A"
+Cadena convertida - línea 14: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_ta2\Step_0.gml
+Cadena convertida - línea 8: 'A' -> "A"
+Cadena convertida - línea 9: 'D' -> "D"
+Cadena convertida - línea 10: 'W' -> "W"
+Cadena convertida - línea 11: 'A' -> "A"
+Cadena convertida - línea 11: 'D' -> "D"
+Cadena convertida - línea 12: 'W' -> "W"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'A' -> "A"
+Cadena convertida - línea 14: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_tb2\Step_0.gml
+Cadena convertida - línea 8: 'A' -> "A"
+Cadena convertida - línea 9: 'D' -> "D"
+Cadena convertida - línea 10: 'W' -> "W"
+Cadena convertida - línea 11: 'A' -> "A"
+Cadena convertida - línea 11: 'D' -> "D"
+Cadena convertida - línea 12: 'W' -> "W"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'A' -> "A"
+Cadena convertida - línea 14: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_tc2\Step_0.gml
+Cadena convertida - línea 8: 'A' -> "A"
+Cadena convertida - línea 9: 'D' -> "D"
+Cadena convertida - línea 10: 'W' -> "W"
+Cadena convertida - línea 11: 'A' -> "A"
+Cadena convertida - línea 11: 'D' -> "D"
+Cadena convertida - línea 12: 'W' -> "W"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'A' -> "A"
+Cadena convertida - línea 14: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_co2\Step_0.gml
+Cadena convertida - línea 8: 'A' -> "A"
+Cadena convertida - línea 9: 'D' -> "D"
+Cadena convertida - línea 10: 'W' -> "W"
+Cadena convertida - línea 11: 'A' -> "A"
+Cadena convertida - línea 11: 'D' -> "D"
+Cadena convertida - línea 12: 'W' -> "W"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'A' -> "A"
+Cadena convertida - línea 14: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_l2\Step_0.gml
+Cadena convertida - línea 8: 'A' -> "A"
+Cadena convertida - línea 9: 'D' -> "D"
+Cadena convertida - línea 10: 'W' -> "W"
+Cadena convertida - línea 11: 'A' -> "A"
+Cadena convertida - línea 11: 'D' -> "D"
+Cadena convertida - línea 12: 'W' -> "W"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'A' -> "A"
+Cadena convertida - línea 14: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_e2\Step_0.gml
+Cadena convertida - línea 8: 'A' -> "A"
+Cadena convertida - línea 9: 'D' -> "D"
+Cadena convertida - línea 10: 'W' -> "W"
+Cadena convertida - línea 11: 'A' -> "A"
+Cadena convertida - línea 11: 'D' -> "D"
+Cadena convertida - línea 12: 'W' -> "W"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'A' -> "A"
+Cadena convertida - línea 14: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_v2\Step_0.gml
+Cadena convertida - línea 8: 'A' -> "A"
+Cadena convertida - línea 9: 'D' -> "D"
+Cadena convertida - línea 10: 'W' -> "W"
+Cadena convertida - línea 11: 'A' -> "A"
+Cadena convertida - línea 11: 'D' -> "D"
+Cadena convertida - línea 12: 'W' -> "W"
+Cadena convertida - línea 13: 'W' -> "W"
+Cadena convertida - línea 14: 'A' -> "A"
+Cadena convertida - línea 14: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_b_normal\Create_0.gml
+Descripción convertida /// @description  normal
+
+Convirtiendo script GML: ${project_dir}\objects\obj_b_normal\Step_0.gml
+Descripción convertida /// @description normal
+
+Convirtiendo script GML: ${project_dir}\objects\obj_b_normal2\Create_0.gml
+Descripción convertida /// @description  normal
+
+Convirtiendo script GML: ${project_dir}\objects\obj_b_normal2\Step_0.gml
+Descripción convertida /// @description normal
+
+Convirtiendo script GML: ${project_dir}\objects\obj_w\Step_0.gml
+Cadena convertida - línea 2: 'W' -> "W"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_d\Step_0.gml
+Cadena convertida - línea 2: 'D' -> "D"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_s\Step_0.gml
+Cadena convertida - línea 2: 'S' -> "S"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_a\Step_0.gml
+Cadena convertida - línea 2: 'A' -> "A"
+
+Convirtiendo script GML: ${project_dir}\objects\obj_en_11\Create_0.gml
+Descripción convertida /// @description Initialize Variables
+
+El icono macOS ${options_dir}\mac\icons\icon512.png se ha escrito como de 32-bit
+El script del instalador de Windows NSIS se ha pasado a predeterminado debido a cambios en GameMaker Studio 2
+Falta el grupo de audio para el sonido: "snd_menu" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_ingame" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_aplausos" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_deadcoop" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_win" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_baba" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_baba2" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_splashen" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_splat" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_singleplayer" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_hola3" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_hola2" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_hola1" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_jump" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_mariposa" - pasando el grupo de audio a predeterminado
+Velocidad del juego fijada en 60
+Añadido el script de compatibilidad "action/action_another_room.gml"
+Añadido el script de compatibilidad "action/action_bounce.gml"
+Añadido el script de compatibilidad "action/action_change_object.gml"
+Añadido el script de compatibilidad "action/action_create_object.gml"
+Añadido el script de compatibilidad "action/action_current_room.gml"
+Añadido el script de compatibilidad "action/action_draw_score.gml"
+Añadido el script de compatibilidad "action/action_end_game.gml"
+Añadido el script de compatibilidad "action/action_end_sound.gml"
+Añadido el script de compatibilidad "action/action_fullscreen.gml"
+Añadido el script de compatibilidad "action/action_kill_object.gml"
+Añadido el script de compatibilidad "action/action_load_game.gml"
+Añadido el script de compatibilidad "action/action_move.gml"
+Añadido el script de compatibilidad "action/action_next_room.gml"
+Añadido el script de compatibilidad "action/action_path.gml"
+Añadido el script de compatibilidad "action/action_previous_room.gml"
+Añadido el script de compatibilidad "action/action_restart_game.gml"
+Añadido el script de compatibilidad "action/action_save_game.gml"
+Añadido el script de compatibilidad "action/action_set_alarm.gml"
+Añadido el script de compatibilidad "action/action_set_relative.gml"
+Añadido el script de compatibilidad "action/action_set_score.gml"
+Añadido el script de compatibilidad "action/action_sound.gml"
+Añadido el script de compatibilidad "instance/instance_create.gml"
+Añadido el script de compatibilidad "object/object_get_depth.gml"
+Añadido el script de compatibilidad "action/__init_action.gml"
+Añadido el script de compatibilidad "__init_global.gml"
+Añadido el script de compatibilidad "__global_object_depths.gml"

@@ -1,0 +1,58 @@
+Convirtiendo script GML: ${project_dir}\scripts\NEServerInit\NEServerInit.gml
+Descripción convertida /// @description NEServerInit( port, maxclients, server obj, TestingMoreClientsWithOneIP, net_type )/// @param  port
+/// @param  maxclients
+/// @param  server obj
+/// @param  TestingMoreClientsWithOneIP
+/// @param  net_type
+
+Convirtiendo script GML: ${project_dir}\scripts\NESendToAll\NESendToAll.gml
+Descripción convertida /// @description NESendToAll( socket )/// @param  socket
+
+Convirtiendo script GML: ${project_dir}\scripts\NEServerNetworking\NEServerNetworking.gml
+Descripción convertida /// @description NEServerNetworking()
+
+Convirtiendo script GML: ${project_dir}\scripts\NEServerReadPacket\NEServerReadPacket.gml
+Descripción convertida /// @description NEServerReadPacket( buffer , socket )/// @param  buffer 
+/// @param  socket
+
+Convirtiendo script GML: ${project_dir}\scripts\NEClientInit\NEClientInit.gml
+Descripción convertida /// @description NEClientInit( ip adress, port, net_type )/// @param  ip adress
+/// @param  port
+/// @param  net_type
+
+Convirtiendo script GML: ${project_dir}\scripts\NEClientNetworking\NEClientNetworking.gml
+Descripción convertida /// @description NEClientNetworking()
+
+Convirtiendo script GML: ${project_dir}\scripts\NEClientReadPacket\NEClientReadPacket.gml
+Descripción convertida /// @description NEClientReadPacket( buffer )/// @param  buffer
+
+Convirtiendo script GML: ${project_dir}\scripts\NEAddPacket\NEAddPacket.gml
+Descripción convertida /// @description NEAddPacket( pcktID, scipt to do )/// @param  pcktID
+/// @param  scipt to do
+
+Convirtiendo script GML: ${project_dir}\scripts\NEStartBufferWriting\NEStartBufferWriting.gml
+Descripción convertida /// @description NEStartBufferWriting()
+
+Convirtiendo script GML: ${project_dir}\scripts\NEEndBufferWriting\NEEndBufferWriting.gml
+Descripción convertida /// @description NEEndBufferWriting()
+
+Convirtiendo script GML: ${project_dir}\scripts\NESendPackage\NESendPackage.gml
+Descripción convertida /// @description NESendPackage( all only server / socket )/// @param  all only server / socket
+
+Convirtiendo script GML: ${project_dir}\scripts\NEStartWritingToBuffer\NEStartWritingToBuffer.gml
+Descripción convertida /// @description NEStartWritingToBuffer( pcktID )/// @param  pcktID
+
+Convirtiendo script GML: ${project_dir}\scripts\NEAddToBuffer\NEAddToBuffer.gml
+Descripción convertida /// @description NEAddToBuffer( data type, data )/// @param  data type
+/// @param  data
+
+Convirtiendo script GML: ${project_dir}\scripts\message\message.gml
+Descripción convertida /// @description message( "message" )/// @param  "message"
+
+Convirtiendo script GML: ${project_dir}\scripts\send_message\send_message.gml
+Descripción convertida /// @description send_message( socket )/// @param  socket
+
+Convirtiendo script GML: ${project_dir}\objects\objClient\Create_0.gml
+Cadena convertida - línea 1: '127.0.0.1' -> "127.0.0.1"
+
+Actualizado el script de compatibilidad "__global_object_depths.gml"

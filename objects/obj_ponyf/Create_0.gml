@@ -1,0 +1,1 @@
+action_path(pt_ponyfly, 6, 0, 0);

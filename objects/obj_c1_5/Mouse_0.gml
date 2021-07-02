@@ -1,0 +1,2 @@
+global.circulito = 4
+

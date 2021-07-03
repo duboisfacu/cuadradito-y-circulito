@@ -1,4 +1,1 @@
-*.Yacc linguist-detectable=false
-*.java linguist-detectable=true
-*.GML linguist-detectable=true
-* linguist-language=Game Maker Language
+

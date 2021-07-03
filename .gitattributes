@@ -1,2 +1,3 @@
-*.Yacc linguist-detectable=false
-*.Java linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=true
+*.java linguist-detectable=false

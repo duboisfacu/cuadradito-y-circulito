@@ -51,14 +51,14 @@ Para esto el jugador debe administrar bien sus saltos, ya que el personaje tiene
 Existen dos tipos de modo de juego en multijugador, estos son supervivencia y cooperativo. Para jugar este modo, tanto el jugador uno como el jugador dos, pueden elegir entre los diferentes personajes que aparecen en la serie animada.
 
 <h3 align="center"> Supervivencia: </h3>
-<p align="center"> En supervivencia, los jugadores deberán mantenerse el mayor tiempo en pie posible. El juego termina, y el ganador se consgara, si el alien golpea a uno de estos o si la vida de alguno llega a cero. <br> La vida se reduce al quedarse en la misma posición sin moverse. </p>
+En supervivencia, los jugadores deberán mantenerse el mayor tiempo en pie posible. El juego termina, y el ganador se consgara, si el alien golpea a uno de estos o si la vida de alguno llega a cero. La vida se reduce al quedarse en la misma posición sin moverse. 
 </center>
 <p align="center">
 <img src="README.resources/survival.gif" >
 </p>
 
 <h3 align="center"> Cooperativo: </h3>
-<p align="center"> En cooperativo, los jugadores deberán unir fuerzas para derrotar el alien. Para hacer esto, deberán mantenerse con vida y presionar el botón rojo que se encuentra en el centro de la pantalla. Esto provocará que una piedra lunar sea lanzada por la pantalla, si ésta golpea al alien, perderá una vida. Pero si el alien golpea a uno de los jugadores acabará con su vida. El juego termina cuando el alien quede sin vida o ambos jugadores mueran. <br> Al igual que en el modo Suoervivencia, la vida se reduce al quedarse en la misma posición sin moverse. </p>
+En cooperativo, los jugadores deberán unir fuerzas para derrotar el alien. Para hacer esto, deberán mantenerse con vida y presionar el botón rojo que se encuentra en el centro de la pantalla. Esto provocará que una piedra lunar sea lanzada por la pantalla, si ésta golpea al alien, perderá una vida. Pero si el alien golpea a uno de los jugadores acabará con su vida. El juego termina cuando el alien quede sin vida o ambos jugadores mueran. Al igual que en el modo Suoervivencia, la vida se reduce al quedarse en la misma posición sin moverse. 
 </center>
 <p align="center">
 <img src="README.resources/coop.gif" >

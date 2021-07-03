@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://minaclavero.polotecnologico.ar/">
-  <img height=250px src="README.resources/polo.png"/>
+  <img height=250px src="README.resources/cyc.png"/>
   </a>
 </p>
 
@@ -18,16 +18,7 @@ Es un repositorio de ejercicios y actividades realizadas para el curso de Introd
 
 
 ***
-<h2 align="center"> Capacitación patrocinadá por: </h2>
-<p  align="center">
-  <a href="https://leistungargentina.com.ar/es/inicio/" target="_blank">
-  <img src="README.resources/leistung.png" height=100px>
-  </a>
-  <img src="README.resources/bloque.png" height=20px>
-  <a href="https://incluit.com/" target="_blank">
-  <img src="README.resources/incluit.png" height=100px>
-  </a>
-</p>
+
 <center>
 
 <h2 align="center"> Mis Redes </h2>

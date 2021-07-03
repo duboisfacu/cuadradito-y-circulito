@@ -1,4 +1,3 @@
 *.Yacc linguist-detectable=false
 *.java linguist-detectable=false
 *.gml linguist-detectable=true
-* linguist-language=gml

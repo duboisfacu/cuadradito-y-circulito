@@ -14,7 +14,7 @@
 <h2 align="center"> ¿De qué consta este repositorio?</h2>
 </center>
 
-Es un juego desarrollado en la plataforma Game Maker Studio 2 y codificado con en lenguaje propio del mismo (GML). Creado a partir de la serie de <a href="https://www.youtube.com/channel/UCqZz5zL_SIGzH0tV-OMdqhg" target="_blank">Cuadradito y Circulito</a> sin algún tipo de fin de lucro.
+Es un juego desarrollado en la plataforma Game Maker Studio 2 y codificado con en lenguaje propio del mismo (GML). Creado a partir de la serie de <a href="https://www.youtube.com/channel/UCqZz5zL_SIGzH0tV-OMdqhg" target="_blank">Cuadradito y Circulito</a> sin ningún tipo de fin de lucro.
 
 ***
 

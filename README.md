@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://minaclavero.polotecnologico.ar/">
+  <a href="https://www.youtube.com/channel/UCqZz5zL_SIGzH0tV-OMdqhg">
   <img height=250px src="README.resources/cyc.png"/>
   </a>
 </p>

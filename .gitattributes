@@ -1,2 +1,3 @@
 *.yy linguist-vendored
 *.java linguist-vendored
+*.nsi linguist-vendored

@@ -7,7 +7,7 @@
     "option_windows_borderless": false,
     "option_windows_company_info": "Facu Dubois",
     "option_windows_copy_exe_to_dest": false,
-    "option_windows_copyright_info": "Stackden",
+    "option_windows_copyright_info": "Facu Dubois",
     "option_windows_description_info": "Cuadradito y Circulito BETA",
     "option_windows_display_cursor": true,
     "option_windows_display_name": "Cuadradito y Circulito BETA",
